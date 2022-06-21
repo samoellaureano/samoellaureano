@@ -4,7 +4,6 @@
   <a href="https://github.com/samoellaureano">
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=samoellaureano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoellaureano&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <a href="https://app.daily.dev/samoellaureano"><img src="https://api.daily.dev/devcards/15f3c1e9e7a94cd897e31c1413965202.png?r=i5g" width="400" alt="samoel laureano's Dev Card"/></a>
   
   ## Working with
   <img align="center" alt="samoellaureano-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
